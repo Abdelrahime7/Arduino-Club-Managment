@@ -1,0 +1,6 @@
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\bin\Release\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\bin\Release\WameedhAccess.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Release\WameedhAccess.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Release\WameedhAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Release\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Release\WameedhAccess.pdb

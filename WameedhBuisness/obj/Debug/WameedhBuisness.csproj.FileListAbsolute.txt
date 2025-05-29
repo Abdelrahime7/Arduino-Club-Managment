@@ -1,0 +1,27 @@
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Debug\WameedhBuisness.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Debug\WameedhB.A6B40725.Up2Date
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Debug\WameedhBuisness.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\bin\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\bin\Debug\WameedhBuisness.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\obj\Debug\WameedhB.A6B40725.Up2Date
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\obj\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhBuisness\obj\Debug\WameedhBuisness.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\bin\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\bin\Debug\WameedhBuisness.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\obj\Debug\WameedhBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\obj\Debug\WameedhB.A6B40725.Up2Date
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\obj\Debug\WameedhBuisness.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhBuisness\obj\Debug\WameedhBuisness.pdb

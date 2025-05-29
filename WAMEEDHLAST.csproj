@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8203D2DA-A3C9-46E5-A94C-FB212F3B9A67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WAMEEDHLAST</RootNamespace>
+    <AssemblyName>WAMEEDHLAST</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArduinoItems\Forms\AddEditFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArduinoItems\Forms\AddEditFrm.Designer.cs">
+      <DependentUpon>AddEditFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowing\Forms\AllBorrowingsFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowing\Forms\AllBorrowingsFRM.Designer.cs">
+      <DependentUpon>AllBorrowingsFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Retrievals\Forms\RetrivalinfoFrm - Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Retrievals\Forms\RetrivalinfoFrm - Copy.Designer.cs">
+      <DependentUpon>RetrivalinfoFrm - Copy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Retrievals\Forms\RetrivalProcessFrm - Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Retrievals\Forms\RetrivalProcessFrm - Copy.Designer.cs">
+      <DependentUpon>RetrivalProcessFrm - Copy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Forms\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Forms\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowers\Forms\AllBorrowersFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowers\Forms\AllBorrowersFrm.Designer.cs">
+      <DependentUpon>AllBorrowersFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArduinoItems\Forms\AllItemsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArduinoItems\Forms\AllItemsFrm.Designer.cs">
+      <DependentUpon>AllItemsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Retrievals\Forms\ALLRetrievalsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Retrievals\Forms\ALLRetrievalsFrm.Designer.cs">
+      <DependentUpon>ALLRetrievalsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Forms\AllUsersFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Forms\AllUsersFrm.Designer.cs">
+      <DependentUpon>AllUsersFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorroeingDetailsFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorroeingDetailsFRM.Designer.cs">
+      <DependentUpon>BorroeingDetailsFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowers\Forms\BorrowerDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowers\Forms\BorrowerDetailsFrm.Designer.cs">
+      <DependentUpon>BorrowerDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorrwingItemDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorrwingItemDetailsFrm.Designer.cs">
+      <DependentUpon>BorrwingItemDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorrwingsProcessFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowing\Forms\BorrwingsProcessFrm.Designer.cs">
+      <DependentUpon>BorrwingsProcessFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClsGlobal.cs" />
+    <Compile Include="Borrowers\UserContorle\CrlBorrowerInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Borrowers\UserContorle\CrlBorrowerInfo.Designer.cs">
+      <DependentUpon>CrlBorrowerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowing\UserControl\CrlBorrowingsInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Borrowing\UserControl\CrlBorrowingsInfo.Designer.cs">
+      <DependentUpon>CrlBorrowingsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\UserControl\CrlPersnInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Person\UserControl\CrlPersnInfo.Designer.cs">
+      <DependentUpon>CrlPersnInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Forms\DeleteUserFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Forms\DeleteUserFrm.Designer.cs">
+      <DependentUpon>DeleteUserFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArduinoItems\Forms\DeletItemFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArduinoItems\Forms\DeletItemFrm.Designer.cs">
+      <DependentUpon>DeletItemFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Borrowers\Forms\EditBorrowerFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrowers\Forms\EditBorrowerFRM.Designer.cs">
+      <DependentUpon>EditBorrowerFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Forms\EditUserFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\Forms\EditUserFrm.Designer.cs">
+      <DependentUpon>EditUserFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\LoginFRm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\LoginFRm.Designer.cs">
+      <DependentUpon>LoginFRm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person\PesronDetailsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Person\PesronDetailsFrm.Designer.cs">
+      <DependentUpon>PesronDetailsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings\Settings.cs" />
+    <EmbeddedResource Include="ArduinoItems\Forms\AddEditFrm.resx">
+      <DependentUpon>AddEditFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowing\Forms\AllBorrowingsFRM.resx">
+      <DependentUpon>AllBorrowingsFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Retrievals\Forms\RetrivalinfoFrm - Copy.resx">
+      <DependentUpon>RetrivalinfoFrm - Copy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Retrievals\Forms\RetrivalProcessFrm - Copy.resx">
+      <DependentUpon>RetrivalProcessFrm - Copy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Forms\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowers\Forms\AllBorrowersFrm.resx">
+      <DependentUpon>AllBorrowersFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArduinoItems\Forms\AllItemsFrm.resx">
+      <DependentUpon>AllItemsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Retrievals\Forms\ALLRetrievalsFrm.resx">
+      <DependentUpon>ALLRetrievalsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Forms\AllUsersFrm.resx">
+      <DependentUpon>AllUsersFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowing\Forms\BorroeingDetailsFRM.resx">
+      <DependentUpon>BorroeingDetailsFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowers\Forms\BorrowerDetailsFrm.resx">
+      <DependentUpon>BorrowerDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowing\Forms\BorrwingItemDetailsFrm.resx">
+      <DependentUpon>BorrwingItemDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowing\Forms\BorrwingsProcessFrm.resx">
+      <DependentUpon>BorrwingsProcessFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowers\UserContorle\CrlBorrowerInfo.resx">
+      <DependentUpon>CrlBorrowerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowing\UserControl\CrlBorrowingsInfo.resx">
+      <DependentUpon>CrlBorrowingsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\UserControl\CrlPersnInfo.resx">
+      <DependentUpon>CrlPersnInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Forms\DeleteUserFrm.resx">
+      <DependentUpon>DeleteUserFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArduinoItems\Forms\DeletItemFrm.resx">
+      <DependentUpon>DeletItemFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrowers\Forms\EditBorrowerFRM.resx">
+      <DependentUpon>EditBorrowerFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Forms\EditUserFrm.resx">
+      <DependentUpon>EditUserFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\LoginFRm.resx">
+      <DependentUpon>LoginFRm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person\PesronDetailsFrm.resx">
+      <DependentUpon>PesronDetailsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="login\login" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abdou.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gratis-png-iconos-de-la-computadora-arduino-continuos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-inbox-icon-arrow-creative-vector-png-image_33522208.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="WameedhBuisness\WameedhBuisness.csproj">
+      <Project>{dfa94b40-f283-4ff1-ae20-8735ea77c026}</Project>
+      <Name>WameedhBuisness</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

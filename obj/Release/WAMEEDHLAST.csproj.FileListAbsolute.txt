@@ -1,0 +1,70 @@
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WAMEEDHLAST.exe.config
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WAMEEDHLAST.exe
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WAMEEDHLAST.pdb
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\Guna.UI2.dll
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WammeedBuisness2.dll
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WameedhDataAccess2.dll
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WammeedBuisness2.pdb
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\bin\Release\WameedhDataAccess2.pdb
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AddEditForm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AddUser.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AllBorrowersFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AllBorrowingsFRM.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.ShowAllItemsFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.ALLRetrievalsFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AllUsersFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.BorrwingsProcessFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.DeleteUserFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.DeletItemFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.EditBorrowerFRM.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.EditUserFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.AccuileFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.LoginFRm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.Properties.Resources.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\Wammedh1.RetrivalProcessFrm.resources
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.csproj.GenerateResource.cache
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHL.771F09B4.Up2Date
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.exe
+C:\Users\Azur Computer\source\cours 18\WAMEEDHLAST\obj\Release\WAMEEDHLAST.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WAMEEDHLAST.exe.config
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WAMEEDHLAST.exe
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WAMEEDHLAST.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\Guna.UI2.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhBuisness.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhBuisness.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AddEditForm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AddUser.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AllBorrowersFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AllBorrowingsFRM.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.ShowAllItemsFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.ALLRetrievalsFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AllUsersFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.BorroeingDetailsFRM.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.BorrowerDetailsFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.BorrwingItemDetailsFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.BorrwingsProcessFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.CrlBorroerInfo.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.CrlBorrowingsInfo.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.CrlPersnInfo.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.DeleteUserFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.DeletItemFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.EditBorrowerFRM.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.EditUserFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.AccuileFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.LoginFRm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.PesronDetailsFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.Properties.Resources.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.RetrivalinfoFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\Wammedh1.RetrivalProcessFrm.resources
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.csproj.GenerateResource.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHL.771F09B4.Up2Date
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.exe
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\obj\Release\WAMEEDHLAST.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhDb.mdf
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\bin\Release\WameedhDb_log.ldf

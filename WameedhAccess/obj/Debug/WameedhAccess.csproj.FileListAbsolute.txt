@@ -1,0 +1,18 @@
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Debug\WameedhAccess.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Debug\WameedhAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhAccess\obj\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\obj\Debug\WameedhAccess.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\obj\Debug\WameedhAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\obj\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTes11\WameedhAccess\obj\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\bin\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\bin\Debug\WameedhAccess.pdb
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\obj\Debug\WameedhAccess.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\obj\Debug\WameedhAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\obj\Debug\WameedhAccess.dll
+C:\Users\Azur Computer\OneDrive\Desktop\waTesLastV\WameedhAccess\obj\Debug\WameedhAccess.pdb

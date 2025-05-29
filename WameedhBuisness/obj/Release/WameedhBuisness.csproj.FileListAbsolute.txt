@@ -1,0 +1,9 @@
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Release\WameedhBuisness.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Release\WameedhBuisness.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Release\WameedhAccess.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\bin\Release\WameedhAccess.pdb
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Release\WameedhBuisness.csproj.AssemblyReference.cache
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Release\WameedhBuisness.csproj.CoreCompileInputs.cache
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Release\WameedhB.A6B40725.Up2Date
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Release\WameedhBuisness.dll
+C:\Users\Azur Computer\source\cours 18\WameedhBuisness\obj\Release\WameedhBuisness.pdb
